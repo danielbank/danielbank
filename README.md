@@ -1,6 +1,7 @@
 ## 🤖 [Xaac](https://www.xaac.com) - I am a Co-Founder at Xaac (if you use SharePoint and it's a mess, hit me up!)
 ## 🎲 [Histogramo](https://www.histogramo.com/) - Dice Statistics on Demand
 ## 🦀 [Desert Rust](https://rust.azdevs.org/) - AZ Meetup for Rustaceans
+## 👦/👧 - [Arthur and Mei Mei School](https://www.arthurmeimei.com/)
 ## 💬 Talks
 - [LlamaIndex with Next.js](https://github.com/danielbank/llamaindex-nextjs-demo) (2025)
 - [Training Supervised Models from Foundational Models with Autodistill](https://github.com/danielbank/label-with-autodistill) (2024)
