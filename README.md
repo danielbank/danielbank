@@ -1,4 +1,4 @@
-## 🤖 [Xaac](https://www.xaac.com) - I am a Co-Founder at Xaac (if you use SharePoint and it's a mess, hit me up!)
+## 🤖 [Xaac](https://www.xaac.com) - I am trying to build a company called Xaac
 ## 🎲 [Histogramo](https://www.histogramo.com/) - Dice Statistics on Demand
 ## 🦀 [Desert Rust](https://rust.azdevs.org/) - AZ Meetup for Rustaceans
 ## 👦/👧 [Arthur and Mei Mei School](https://www.arthurmeimei.com/) - Random Stuff from My Kids
