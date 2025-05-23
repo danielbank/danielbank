@@ -1,4 +1,5 @@
 ## 🤖 [Xaac](https://www.xaac.com) - I am building a startup, Xaac
+## 🦀 [Desert Rust](https://azdevs.github.io/desert-rustaceans/) - an Arizona Meetup for Rust Developers
 ## 🎲 [Histogramo](https://www.histogramo.com/) - Dice Statistics on Demand
 ## 👦/👧 [Arthur and Mei Mei School](https://www.arthurmeimei.com/) - Random Stuff from My Kids
 ## 💬 Talks
